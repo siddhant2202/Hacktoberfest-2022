@@ -82,3 +82,18 @@ I have created a simple page to display all contributors list [here](https://hct
 - https://github.com/hctnm1/HacktoberFest-2021/
 - https://github.com/hctnm2/hacktoberfest-2021
 - https://github.com/roshankcpkr/Hacktoberfest-web
+
+# FAQs 
+- Who can contribute?
+  - Anyone with a github account and who is signed up for
+[hacktoberfest](https://hacktoberfest.digitalocean.com/) :)
+- Are you getting paid for this?
+  - Sadly no. But we think we should. This is 100% unofficial and we do it for fun, fame and glory.
+- How many pull request (PR) must be made, if I can get a awesome shirt from Hacktoberfest 2021?
+  - 4
+- How do I track my progress to get an awesome shirt from Hacktoberfest 2021?
+  - [go to :](https://hacktoberfest.digitalocean.com/profile/). (Check Out Your Own Stats at Right Top)
+- What is the duration of Hacktoberfest 2021?
+  - It is from 1st october to 31st october 2021...
+- What is the event for?
+  - For the open source community engagement
